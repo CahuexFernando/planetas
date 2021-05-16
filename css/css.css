@@ -1,0 +1,58 @@
+*{
+    text-decoration: inherit;
+    color: #ffffff;
+    margin:0;
+    padding-top:0px;
+    font-family: 'Pangolin', cursive;
+}
+body{
+    background-color: #f1f1f1;
+}
+nav{
+    width: 100%;/*ancho de caja*/
+    height: 50px;/*alto de caja*/
+    background-color: #ff8282;
+    padding-top: 10px;
+    padding-left: 25px;
+    
+}       
+.titulo{
+    color: #ffffff;
+    text-align: end;
+    font-size: 30px;
+}
+p{
+    float: right;
+    margin-right: 20px;
+    padding-right: 10px;
+    
+    
+}
+article{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+div{
+    color: #ffffff;
+    width: 500px;/*ancho de cajas*/
+    height: 500px;/*alto de cajas*/
+    background-color: #39b6bb; 
+    text-align: center;
+    float: left;
+
+}
+.caja_texto1{
+    background-image: url(../img/c1de1fc9f57e3d087a3e6d9481ee47f6.jpg);
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.caja_texto2{
+    background-image: url(../img/constelaciones.jpg);
+    margin-left: 130px;
+    margin-top: 50px;
+}
+h3{
+    font-size: 200%;
+    margin-top: 150px;
+}
